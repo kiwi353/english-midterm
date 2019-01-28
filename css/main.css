@@ -1,0 +1,167 @@
+#americas {
+    position: absolute;
+    top: 80px;
+    left: 780px;
+    border: 2px solid black;
+    width: 250px;
+    height: auto;
+}
+
+#cortes {
+    position: absolute;
+    top: 350px;
+    left: 780px;
+    border: 2px solid black;
+    width: 250px;
+    height: auto;
+}
+
+#encomienda {
+    position: absolute;
+    top: 780px;
+    left: 780px;
+    border: 2px solid black;
+    width: 250px;
+    height: auto;
+}
+
+#sweatshop {
+    position: absolute;
+    top: 1200px;
+    left: 780px;
+    border: 2px solid black;
+    width: 250px;
+    height: auto;
+}
+
+#bigBusiness {
+    position: absolute;
+    top: 1650px;
+    left: 780px;
+    border: 2px solid black;
+    width: 250px;
+    height: auto;
+}
+
+#worksCited {
+    position: relative;
+    top: 20px;
+    left: 50px;
+    border: 2px solid black;
+}
+
+.construction {
+    position: relative;
+    top: 120px;
+    left: 200px;
+    border: 2px solid black;
+}
+
+.tocTitle {
+    font-size: 23px !important;
+    font-style: normal !important;
+}
+
+h3 {
+    color: darkblue;
+    font-style: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    margin: 1px;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(23, 22, 26);
+    font-size: 28px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(23, 22, 26);
+    font-size: 20px;
+    margin-top: 12px;
+}
+
+hr {
+    width: 100%;
+    border-color: green;
+    color: green;
+    border-width: 5px;
+    border-radius: 4px;
+    margin: 1px;
+}
+
+body {
+    background-color: #fca35a;
+}
+
+.heading {
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    right: auto;
+    width: 100%;
+}
+
+.content {
+    position: absolute;
+    top: 100px;
+    left: 170px;
+    width: 60%;
+}
+
+.navBar {
+    position: absolute;
+    height: 65%;
+    width: 120px;
+    top: 82px;
+}
+.navBar table {
+    height: 100%;
+}
+
+.navBar tr {
+    height: auto;
+}
+.navBar td {
+    border-bottom: 3px solid darkblue;
+    vertical-align: bottom;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-style: italic;
+}
+
+
+.pagesList {
+    position: absolute;
+    width: 88%;
+    height: 50px;
+}
+
+.pagesList table {
+    width: 100%;
+}
+
+.pagesList tr {
+    width: auto;
+    height: auto;
+}
+
+.pagesList td {
+    border-bottom: 3px solid darkblue; 
+    width: 25%;
+}
+
+.pagesList button {
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    margin: 0px;
+    margin-top: 4px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
